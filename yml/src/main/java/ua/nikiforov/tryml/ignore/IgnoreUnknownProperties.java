@@ -1,10 +1,10 @@
-package ua.nikiforov.trymljson.yml;
+package ua.nikiforov.tryml.ignore;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
-import ua.nikiforov.trymljson.yml.model.Languages;
+import ua.nikiforov.tryml.ignore.model.Languages;
 
 import java.io.IOException;
 import java.net.URISyntaxException;

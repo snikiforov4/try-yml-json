@@ -1,4 +1,4 @@
-package ua.nikiforov.trymljson.yml.model;
+package ua.nikiforov.tryml.ignore.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.common.collect.ImmutableList;
