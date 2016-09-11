@@ -1,0 +1,7 @@
+Languages:
+  - name: English
+    alphabet_size: 26
+    current_use_words: 171_476
+  - name: French
+    alphabet_size: 26
+    current_use_words: 100_000
